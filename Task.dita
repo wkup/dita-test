@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_fwq_qzs_qv">
-    <title></title>
-    <shortdesc/>
+    <title>Ma première task</title>
+    <shortdesc>Une petite description ici. Ca m'a l'air vraiment pas mal du tout :-)</shortdesc>
     <taskbody>
         <context>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Créer une cible</cmd>
+            </step>
+            <step>
+                <cmd>Sélectionner la cible nouvellement créée</cmd>
             </step>
         </steps>
     </taskbody>
